@@ -266,7 +266,6 @@ class HopsCircle(_GHParam):
         return circle
 
 
-
 class HopsCurve(_GHParam):
     """Wrapper for GH Curve"""
 
